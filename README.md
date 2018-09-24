@@ -10,7 +10,7 @@ Learning management systems help the instructor deliver material to the students
 
 Before you begin i recommend you to read about the basic building blocks that assemble this application:
 * MongoDB - Go through [MongoDB Official Website](https://www.mongodb.com/) and proceed to their [Official Manual](https://docs.mongodb.com/), which should help you understand NoSQL and MongoDB better.
-* Express - The best way to understand express is through its [Official Website](https://expressjs.com/), which has a [Getting Started](https://expressjs.com/en/starter/installing.html) guide, as well as an [ExpressJS](https://expressjs.com/en/guide/routing.html) guide for general express topics.
+* Express - The best way to understand express is through it's [Official Website](https://expressjs.com/), which has a [Getting Started](https://expressjs.com/en/starter/installing.html) guide, as well as an [ExpressJS](https://expressjs.com/en/guide/routing.html) guide for general express topics.
 * ReactJS - React's [Official Website](https://reactjs.org/) is a great starting point.
 * Node.js - Start by going through [Node.js Official Website](https://nodejs.org/en/) which should get you going with the Node.js platform.
 
@@ -39,7 +39,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ## Quick Start
 
-open terminal to run server
+open terminal to run server,
 *Please make sure your MongoDB is running*
 
 ```bash
@@ -69,7 +69,7 @@ cd client && npm install
 npm start
 ```
 
-this application should run on port 3000 , you can access it through browser, just go to [http://localhost:3000/login](http://localhost:3000/login) for Client App.
+this application should run on port 3000 , you can access it through browser, just go to [http://localhost:3000/login](http://localhost:3000/login) for Client App. and
 [http://localhost:3001/](http://localhost:3001/) for RESTful APIs.
 
 ### Default Admin User
